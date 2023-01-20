@@ -1,3 +1,3 @@
-const storeName = 'amazon';
+const storeName = "amazon't";
 
 export { storeName };
