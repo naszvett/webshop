@@ -42,7 +42,7 @@ const data = {
       category: 'other',
       image: '/images/p1.jpg',
       price: 120,
-      countInStock: 10,
+      countInStock: 0,
       brand: 'Nope',
       rating: 2.6,
       numReviews: 10,
