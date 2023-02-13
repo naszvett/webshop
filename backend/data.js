@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'Something Here1',
       slug: 'something-here1',
       category: 'other',
@@ -13,6 +14,7 @@ const data = {
       description: 'Yada yada',
     },
     {
+      _id: '2',
       name: 'Something Here2',
       slug: 'something-here2',
       category: 'other',
@@ -25,6 +27,7 @@ const data = {
       description: 'Yada yada',
     },
     {
+      _id: '3',
       name: 'Something Here3',
       slug: 'something-here3',
       category: 'other',
@@ -37,6 +40,7 @@ const data = {
       description: 'Yada yada',
     },
     {
+      _id: '4',
       name: 'Something Here4',
       slug: 'something-here4',
       category: 'other',
