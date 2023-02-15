@@ -45,5 +45,10 @@ main {
 }
 
 .img-large {
-  max-width: 100%;
+  /* set to 100% with real images*/
+  max-width: 40%;
+}
+
+.img-thumbnail {
+  height: 80px;
 }
